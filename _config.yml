@@ -1,6 +1,6 @@
-title: Xian   # your title
-author: Xian # your name
-description: Just have some fun here # your description
+title: Z-Blog   # your title
+author: 年轻人 # your name
+description: 用于期待更好的想法！ # your description
 avatar: /images/avatar.png # change avatar
 
 # Build Settings
@@ -8,11 +8,11 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 5
+paginate: 8
 paginate_path: "/page:num/"
 gems: [jekyll-paginate]
 
-# Comments
+Comments
 # disqus:
 #   shortname: xxxx-xxxxx-xxx   # your disqus shortname
 
