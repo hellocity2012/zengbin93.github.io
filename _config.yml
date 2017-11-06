@@ -4,10 +4,7 @@ description: "用于期待更好的想法！" # your description
 avatar: /images/avatar.png # change avatar
 
 # Build Settings
-# markdown: kramdown
-kramdown:                                                                       
-   input: GFM
-   hard_wrap: false
+markdown: kramdown
 highlighter: rouge
 
 # Pagination
