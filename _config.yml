@@ -1,6 +1,6 @@
-title: Z-Blog   # your title
-author: 年轻人 # your name
-description: 用于期待更好的想法！ # your description
+title: "Z-Blog"   # your title
+author: "年轻人" # your name
+description: "用于期待更好的想法！" # your description
 avatar: /images/avatar.png # change avatar
 
 # Build Settings
